@@ -73,4 +73,5 @@ jobs:
         with:
           app-name: 'pl-dev-ciso-assistant'
           slot-name: 'Production'
+
           
